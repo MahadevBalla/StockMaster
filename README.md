@@ -4,6 +4,9 @@ StockMaster is a modular, real-time, multi-warehouse Inventory Management System
 
 Designed for Inventory Managers, Warehouse Staff, and Operations Teams, StockMaster ensures complete visibility, accuracy, and efficiency across all stock-related operations.
 
+## Demo
+[View Project Demo](https://youtu.be/PuX433t-6KE)
+
 ---
 
 ## Problem Statement
